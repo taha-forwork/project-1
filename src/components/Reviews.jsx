@@ -14,7 +14,7 @@ const reviews = [
   {
     name: "Mike Johnson",
     image: "/images/review3.webp",
-    stars: 54,
+    stars: 5,
   },
 ];
 
